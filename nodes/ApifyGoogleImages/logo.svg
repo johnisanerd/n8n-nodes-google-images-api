@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
+  <!-- badge -->
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="#0EA5E9"/>
+  <!-- picture frame -->
+  <rect x="14" y="16" width="36" height="32" rx="4" fill="#E0F2FE"/>
+  <!-- sun -->
+  <circle cx="24" cy="26" r="4" fill="#FBBF24"/>
+  <!-- mountains -->
+  <path d="M14 44 L26 32 L34 40 L42 30 L50 40 V44 a4 4 0 0 1 -4 4 H18 a4 4 0 0 1 -4 -4 Z" fill="#0EA5E9"/>
+</svg>
